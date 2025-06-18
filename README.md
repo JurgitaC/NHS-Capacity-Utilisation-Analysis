@@ -3,7 +3,7 @@
 **Tools used**: Excel, Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 📂 [Presentation Slides](Presentation_slides_NHS.pdf)
-📂 [Technical Report]
+📂 [Technical Report](Cepure_Jurgita_DA201_Assignment_Report.pdf)
 📂 [Code Notebook]
 📂 [Feedback](Jurgita_Cepure_Assignment_feedback.pdf)
 
