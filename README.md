@@ -4,7 +4,7 @@
 
 📂 [Presentation Slides](Presentation_slides_NHS.pdf)
 📂 [Technical Report](Cepure_Jurgita_DA201_Assignment_Report.pdf)
-📂 [Code Notebook]
+📂 [Code Notebook](Cepure_Jurgita_DA201_Assignment_NHS.ipynb)
 📂 [Feedback](Jurgita_Cepure_Assignment_feedback.pdf)
 
 ----------------------
