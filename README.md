@@ -61,3 +61,7 @@ On average, 46% of appointments are same-day, a characteristic of the UK booking
 If patients book the appointment, they turn up for it at the rate of ~95% across the entire network with only 4% cancelling and the trend is repeated no matter the season and across all locations
 
 The real challenge appears to lie in the availability of appointments by Other Practice Staff, and even more so, of specialists’ appointments. GPs and Other Practice Staff handle a similar number of appointments for the  same-day, next-day, and same-week bookings. However, when patients have to wait longer for an appointment, it is more likely they will be waiting for the specialist appointment with Other Practice Staff.
+
+![Alt text](GP_vs_Other_Staff_waittimes.png)
+
+
