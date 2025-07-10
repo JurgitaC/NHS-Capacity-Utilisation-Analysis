@@ -64,4 +64,4 @@ The real challenge appears to lie in the availability of appointments by Other P
 
 ![Alt text](GP_vs_Other_Staff_wait_times.png)
 
-
+Except for the early months of the Covid pandemic and January 2021 (a lockdown month), **appointments with longer wait times have consistently outpaced those with shorter waits, with their proportion gradually increasing**. This may **indicate an overall shortage of staff, or** a shortage for **specific appointment types**.
