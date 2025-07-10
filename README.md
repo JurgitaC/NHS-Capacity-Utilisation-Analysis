@@ -96,3 +96,5 @@ However, this capacity utilization may vary significantly across different regio
 - There are **peak appointment periods adding strain on resources**: autumn, driven by planned clinical procedures, and March and June, observed in general trends
 
 - While there is **evidence of a shortage of staff within the broad category of Other Practice Staff**, more granular **analysis at specific locations is necessary** to identify localized staff shortages and address service needs.
+
+----------------------
