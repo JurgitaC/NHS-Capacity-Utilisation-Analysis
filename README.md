@@ -68,17 +68,31 @@ Except for the early months of the Covid pandemic and January 2021 (a lockdown m
 
 ![Alt text](Wait_times_by_Wait_time_cat.png)
 
-**The annually recurring autumn peak**, primarily atributed to Planned Clinical Procedures, reveals several **operational pressure points**.
+**The annually recurring autumn peak**, primarily atributed to Planned Clinical Procedures, reveals several **operational pressure points**:
 
 Same-day and next-day GP appointments dropped, while appointments with 2–21 day wait times increased, **indicating delays in routine care**. Appointments with shorter wait times recovered more quickly than those with longer wait times, which supports **the hypothesis that longer-wait services depend more heavily on ‘Other Practice Staff’**.
 
 A notable rise in appointments handled by Other Practice Staff occurred during the autumn peak, alongside growth in the smaller but steadily increasing ‘Unknown’ HCP category—both suggesting **elevated demand and possible Other Staff strain**. Additionally, there was a spike in ‘Unmapped’ service settings, which, although small in proportion, may **reflect ad hoc operational adjustments or gaps in staffing**.
 
-**These patterns point to a temporary redistribution or shortage of Other Practice Staff across the NHS network during the autumn peak. Combined with a gradually increasing proportion of longer-wait appointments throughout the year, this may signal a growing systemic shortfall in specific appointment types.**
+These patterns point to a temporary redistribution or shortage of Other Practice Staff across the NHS network during the autumn peak. **Combined with a gradually increasing proportion of longer-wait appointments throughout the year, this may signal a growing systemic shortfall in specific appointment types.**
 
 ![Alt text](Date_Specific_period_other_staff.png)
 
 ![Alt text](Demand_increase_other_staff.png)
 
-Provided number of 1.2 million appointments per day equals 70-85% utilization capacity on average across the entire network. 
-However, this capacity utilization may vary significantly across different regions or units
+Provided number of 1.2 million appointments per day equals to **70-85% utilization capacity on average across the entire network. 
+However, this capacity utilization may vary significantly across different regions or units**:
+
+![Alt text](Appt_count_per_ICB.png)
+
+----------------------
+
+## 💊 Conclusions and Next Steps
+
+- **Data quality remains a** notable **issue** affecting the accuracy of capacity assessments. **Improving data collection through staff incentives and standardizing systems** across the network could be effective solutions.
+
+- Appointment attendance is over 90%. Patients are not misusing the system in this way.
+
+- There are **peak appointment periods adding strain on resources**: autumn, driven by planned clinical procedures, and March and June, observed in general trends
+
+- While there is **evidence of a shortage of staff within the broad category of Other Practice Staff**, more granular **analysis at specific locations is necessary** to identify localized staff shortages and address service needs.
