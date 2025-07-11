@@ -1,4 +1,4 @@
-# NHS-Capacity-Utilisation-Analysis
+# NHS - Capacity Utilisation Analysis
 
 **Tools used**: Excel, Python (Pandas, Numpy, Matplotlib, Seaborn)
 
