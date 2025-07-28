@@ -7,6 +7,8 @@
 📂 [Code Notebook](Cepure_Jurgita_DA201_Assignment_NHS.ipynb)
 📂 [Feedback](Jurgita_Cepure_Assignment_feedback.pdf)
 
+**Grade**: 82% 
+
 ----------------------
 
 ## ❓ Business Questions: 
